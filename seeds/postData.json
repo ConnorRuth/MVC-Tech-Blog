@@ -1,14 +1,17 @@
 [
     {
       "title": "Is AI taking out jobs?",
-      "content": "In this blog post, we delve into the ongoing debate surrounding the impact of artificial intelligence on the job market. We explore the various perspectives on whether AI is replacing human jobs and discuss the potential implications for the future workforce."
+      "content": "In this blog post, we delve into the ongoing debate surrounding the impact of artificial intelligence on the job market. We explore the various perspectives on whether AI is replacing human jobs and discuss the potential implications for the future workforce.",
+      "user_id": 1
     },
     {
       "title": "Why you should be using HTMX",
-      "content": "Discover the power of HTMX in this blog post as we uncover the benefits of incorporating this modern JavaScript library into your web development projects. From seamless user interactions to enhanced performance, find out why HTMX is a game-changer for web developers."
+      "content": "Discover the power of HTMX in this blog post as we uncover the benefits of incorporating this modern JavaScript library into your web development projects. From seamless user interactions to enhanced performance, find out why HTMX is a game-changer for web developers.",
+      "user_id": 2
     },
     {
       "title": "How to use neovim",
-      "content": "Unleash the full potential of Neovim with our comprehensive guide on how to effectively use this versatile text editor. Learn essential tips, tricks, and shortcuts to boost your productivity and streamline your coding workflow with Neovim."
+      "content": "Unleash the full potential of Neovim with our comprehensive guide on how to effectively use this versatile text editor. Learn essential tips, tricks, and shortcuts to boost your productivity and streamline your coding workflow with Neovim.",
+      "user_id": 3
     }
   ]
